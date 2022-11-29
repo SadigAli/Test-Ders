@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractionAndInterface", "AbstractionAndInterface\AbstractionAndInterface.csproj", "{929D8807-5D5E-4A36-9C9D-5FDC99AD8BD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "Abstraction\Abstraction.csproj", "{176B2ECB-85C4-458C-8562-3A4610BDD2E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{5802BF9A-92F4-4743-AFB2-2C0D5B3031A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-tekrar", "OOP-tekrar\OOP-tekrar.csproj", "{C5442143-E11A-413B-8D47-F5FD969D438C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefAndOut", "RefAndOut\RefAndOut.csproj", "{3DBCF437-0243-443E-A2D3-12A083826C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task", "Task\Task.csproj", "{7733B2F8-A3BD-49F5-A009-F9FA7FEEFE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaTask", "CinemaTask\CinemaTask.csproj", "{ABC64DDB-1E53-41A0-A7C1-FD54610F86ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929D8807-5D5E-4A36-9C9D-5FDC99AD8BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929D8807-5D5E-4A36-9C9D-5FDC99AD8BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929D8807-5D5E-4A36-9C9D-5FDC99AD8BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929D8807-5D5E-4A36-9C9D-5FDC99AD8BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176B2ECB-85C4-458C-8562-3A4610BDD2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176B2ECB-85C4-458C-8562-3A4610BDD2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176B2ECB-85C4-458C-8562-3A4610BDD2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176B2ECB-85C4-458C-8562-3A4610BDD2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5802BF9A-92F4-4743-AFB2-2C0D5B3031A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5802BF9A-92F4-4743-AFB2-2C0D5B3031A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5802BF9A-92F4-4743-AFB2-2C0D5B3031A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5802BF9A-92F4-4743-AFB2-2C0D5B3031A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5442143-E11A-413B-8D47-F5FD969D438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5442143-E11A-413B-8D47-F5FD969D438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5442143-E11A-413B-8D47-F5FD969D438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5442143-E11A-413B-8D47-F5FD969D438C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DBCF437-0243-443E-A2D3-12A083826C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBCF437-0243-443E-A2D3-12A083826C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBCF437-0243-443E-A2D3-12A083826C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBCF437-0243-443E-A2D3-12A083826C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7733B2F8-A3BD-49F5-A009-F9FA7FEEFE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7733B2F8-A3BD-49F5-A009-F9FA7FEEFE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7733B2F8-A3BD-49F5-A009-F9FA7FEEFE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7733B2F8-A3BD-49F5-A009-F9FA7FEEFE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC64DDB-1E53-41A0-A7C1-FD54610F86ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC64DDB-1E53-41A0-A7C1-FD54610F86ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC64DDB-1E53-41A0-A7C1-FD54610F86ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC64DDB-1E53-41A0-A7C1-FD54610F86ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ECB7206-A8A5-4239-96C1-A84D67575752}
+	EndGlobalSection
+EndGlobal

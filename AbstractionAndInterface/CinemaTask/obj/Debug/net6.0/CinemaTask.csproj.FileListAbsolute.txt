@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\bin\Debug\net6.0\CinemaTask.exe
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\bin\Debug\net6.0\CinemaTask.deps.json
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\bin\Debug\net6.0\CinemaTask.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\bin\Debug\net6.0\CinemaTask.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\bin\Debug\net6.0\CinemaTask.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\refint\CinemaTask.dll
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\CinemaTask.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\C#\AbstractionAndInterface\CinemaTask\obj\Debug\net6.0\ref\CinemaTask.dll
